@@ -93,6 +93,8 @@ By default the tools assume you're in your project (package/repo) directory. If 
 
 `go fmt` - gets your code into standard form if you're into that sort of thing.
 
+`goimports` - better than `go fmt` because it does everything `go fmt` does, as well as organize imports.  Use `go get golang.org/x/tools/cmd/goimports` to get it
+
 
 ## Stuff
 
